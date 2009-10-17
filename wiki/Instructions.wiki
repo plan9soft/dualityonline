@@ -4,24 +4,40 @@
 = Introduction =
 
 Instructions on how to play Duality Online
+
 ******************************************
-#
-*1.Download Hamachi (Download from the forums, nowhere else.)
-*2.Install Hamachi.
-*3.Open Hamachi either through the installation or clicking the icon with 3 little buttons near the bottom right of your screen.
-*(Skip the next step if Hamachi is on.)
-*4.Turn Hamachi on. Use the power button in the bottom left corner.
-*5.Click the little triangle in the bottom left corner. (If you hover your mouse over it, it says Create or Join Network)
-*6. Click "Join an Existing Network"
-*7. Under Network Name, put *Xzygon*
-*8. Under network Password, put *duality* (no caps)
-*9. Press OK.
+
+
+1.Download Hamachi (Download from the forums, nowhere else.)
+
+2.Install Hamachi.
+
+3.Open Hamachi either through the installation or clicking the icon with 3 little buttons near the bottom right of your screen.
+
+(Skip the next step if Hamachi is on.)
+
+4.Turn Hamachi on. Use the power button in the bottom left corner.
+
+5.Click the little triangle in the bottom left corner. (If you hover your mouse over it, it says Create or Join Network)
+
+6. Click "Join an Existing Network"
+
+7. Under Network Name, put *Xzygon*
+
+8. Under network Password, put *duality* (no caps)
+
+9. Press OK.
 
 *Now you're done setting up Hamachi!
 
 *10. Download Duality Online exe here: [http://dualityonline.googlecode.com/files/Duality%20Online%20v.0.0.5.exe]
+
 *11. Install the Duality EXE.
+
 *12. Install it to the folder of your choice.
+
 *13. Go into the folder you installed Duality Online, and press Launcher EXE.
+
 ------------------------------------------
+
 You're DONE! Yay! Please post any questions in the Duality Questions and Answers forum found at : http://duality.freeforums.org
