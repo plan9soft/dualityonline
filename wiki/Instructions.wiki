@@ -30,14 +30,36 @@ Instructions on how to play Duality Online
 
 *Now you're done setting up Hamachi!
 
-*10. Download Duality Online exe here: [http://dualityonline.googlecode.com/files/Duality%20Online%20v.0.0.5.exe]
+____________________________________________________________________________
+===Old Version!===
+10. Download Duality Online exe here: [http://dualityonline.googlecode.com/files/Duality%20Online%20v.0.0.5.exe]
 
-*11. Install the Duality EXE.
+11. Install the Duality EXE.
 
-*12. Install it to the folder of your choice.
+12. Install it to the folder of your choice.
 
-*13. Go into the folder you installed Duality Online, and press Launcher EXE.
+13. Go into the folder you installed Duality Online, and press Launcher EXE.
+____________________________________________________________________________
 
+===Latest Version!===
+You first need TortoiseSVN client.
+It's a small program which is very usefull.
+
+10. Download TortoiseSVN here: http://tortoisesvn.net/downloads
+Please note that there are 2 versions (A 32-bit and a 64-bit version).
+If you don't which you should take, then take the 32-bit one (always works).
+
+11. Run the setup and install it how you like it. Reboot if asked.
+
+12. Choice your "Duality Online" destination folder.
+
+13. Right-click inside that folder (Make sure your cursor isn't pointing another folder or it will put the files inside that one) and click checkout.
+
+14. Fill in this link: http://dualityonline.googlecode.com/svn/trunk/
+
+15. Wait for it to complete.
 ------------------------------------------
 
-You're DONE! Yay! Please post any questions in the Duality Questions and Answers forum found at : http://duality.freeforums.org
+You're DONE! Yay!
+
+Please post any questions in the Duality Questions and Answers forum found at : http://duality.freeforums.org
