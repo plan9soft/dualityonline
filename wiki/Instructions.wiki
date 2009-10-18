@@ -55,9 +55,13 @@ If you don't which you should take, then take the 32-bit one (always works).
 
 13. Right-click inside that folder (Make sure your cursor isn't pointing another folder or it will put the files inside that one) and click checkout.
 
-14. Fill in this link: http://dualityonline.googlecode.com/svn/trunk/
+14. A windows should pop-up asking for the checkout link (Bar looks like internet bar (Where you put in things like www.google.com)).
 
-15. Wait for it to complete.
+15. Fill in this link: http://dualityonline.googlecode.com/svn/trunk/
+
+16. Click ok so it will start downloading.
+
+17. Wait for it to complete.
 ------------------------------------------
 
 You're DONE! Yay!
