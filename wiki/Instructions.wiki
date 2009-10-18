@@ -22,7 +22,7 @@ Instructions on how to play Duality Online
 
 6. Click "Join an Existing Network"
 
-7. Under Network Name, put *Xzygon*
+7. Under Network Name, put *Duality Online*
 
 8. Under network Password, put *duality* (no caps)
 
