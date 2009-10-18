@@ -12,17 +12,19 @@ Duality is a story of how the character (you) awakens in a world not unlike his 
 
 = Versions =
 Duality Online was first released on October 17, 2009.
-
+{{{
 List of Beta Versions
 -v.0.0.1 - Very few maps, regular classes. (Release date - Never)
 -V.0.0.3 - More maps, a tutorial, more monsters. (Release date - Never) 
 -V.0.0.5 - Many maps, longer tutorial, more monsters, another town (Release Date - 10/16/09)
+}}}
 
 = Staff =
+{{{
 Xzygon - Creator/Administrator
 Assassin - Game Moderator / Thought of the Name Duality
 Sparkq7 - Apprentice Game Moderator
 Cindy - Game Moderator
 Christine - Game Moderator
-
+}}}
 The engine was created by Vlad & Abell Storm
