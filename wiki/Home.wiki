@@ -10,14 +10,6 @@ Duality Online is the second edition to the uncompleted offline game, Duality.
 Duality is a story of how the character (you) awakens in a world not unlike his own, with absolutely no way of getting home. The world the character is currently on is inhabited by frogmen, reapers, ghosts, giant birds, and floating jellyfish. Duality Online, however, is a giant add-on for the end of the game, where, if Duality was completed, would have the character defeating the half-dragon/half-devil creature, but the creature would've regained enough strength to make the character unconscious, and throw him/her into a hole that led to nowhere but the Fishy Sea, located on an alternate dimension parallel to the first world (not the homeworld) of the character. 
 
 
-= Versions =
-Duality Online was first released on October 17, 2009.
-
-List of Beta Versions
--v.0.0.1 - Very few maps, regular classes. (Release date - Never)
--V.0.0.3 - More maps, a tutorial, more monsters. (Release date - Never) 
--V.0.0.5 - Many maps, longer tutorial, more monsters, another town (Release Date - 10/16/09)
-
 
 = Staff =
 ||*Xzygon*|| Creator/Administrator|| 
