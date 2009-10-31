@@ -1,1 +1,0 @@
-1	FLD	launcher\Credits.txt
