@@ -1,0 +1,2 @@
+1	FLD	Credits.txt
+2	FLD	Game.rgss2a
