@@ -5,7 +5,8 @@
 Duality Online was first released on October 17, 2009.
 
 List of Beta Versions
-||-v.0.0.1|| - Very few maps, regular classes. (Release date - Never) ||
-||-V.0.0.3|| - More maps, a tutorial, more monsters. (Release date - Never)|| 
-||-V.0.0.5|| - Many maps, longer tutorial, more monsters, another town (Release Date - 10/16/09)||
-||-V.0.0.6|| - Detailed tutorial, more monsters, more maps, islands. (Release date - Soon)||
+||-v.0.1|| - Very few maps, regular classes. (Release date - Never) ||
+||-V.0.3|| - More maps, a tutorial, more monsters. (Release date - Never)|| 
+||-V.0.5|| - Many maps, longer tutorial, more monsters, another town (Release Date - 10/16/09)||
+||-V.0.6|| - Detailed tutorial, more monsters, more maps, islands. (Release date - 10/31/09)||
+||-V.0.7||
