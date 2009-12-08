@@ -9,4 +9,6 @@ List of Beta Versions
 ||-V.0.3|| - More maps, a tutorial, more monsters. (Release date - Never)|| 
 ||-V.0.5|| - Many maps, longer tutorial, more monsters, another town (Release Date - 10/16/09)||
 ||-V.0.6|| - Detailed tutorial, more monsters, more maps, islands. (Release date - 10/31/09)||
-||-V.0.7|| - Adding more things to the tutorial, much more monsters, 3 more towns, many more quests. (Release date - Unknown) ||
+||-V.0.7|| - Adding more things to the tutorial, much more monsters, 3 more towns, many more quests. (Release date - 11/24/09) ||
+||-V.0.8|| - Never Released ||
+||-V.0.9|| - Added light/dark sides, fixed bugs. (Release date - 12/06/09) ||
