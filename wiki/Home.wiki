@@ -1,7 +1,7 @@
 #labels Featured
 = Duality Online =
 
-Duality Online is a 2D MORPG made using RPGMakerVX and Vlad & Abell Storms Vampyr Net Gaming System. It's a work in progress first released as a beta on October 17, 2009.
+Duality Online is a 2D MORPG made using RPGMakerVX and Vlad & Abell Storms Vampyr Net Gaming System. It's a work in progress first released as a Alpha on October 17, 2009.
 
 
 = Details =
