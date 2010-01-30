@@ -5,63 +5,17 @@
 
 Instructions on how to play Duality Online
 
-******************************************
-
-
-1.Download Hamachi (Download from the forums, nowhere else.)
-
-2.Install Hamachi.
-
-3.Open Hamachi either through the installation or clicking the icon with 3 little buttons near the bottom right of your screen.
-
-(Skip the next step if Hamachi is on.)
-
-4.Turn Hamachi on. Use the power button in the bottom left corner.
-
-5.Click the little triangle in the bottom left corner. (If you hover your mouse over it, it says Create or Join Network)
-
-6. Click "Join an Existing Network"
-
-7. Under Network Name, put *Duality Online*
-
-8. Under network Password, put *duality* (no caps)
-
-9. Press OK.
-
-*Now you're done setting up Hamachi!
-
 ____________________________________________________________________________
 ===Download Link!===
-10. Download Duality Online exe here: [http://dualityonline.googlecode.com/files/DualityOnline%20V.06.exe]
+1. Download Duality Online exe here: Link removed until Spring 2010.
 
-11. Install the Duality EXE.
+2. Install the Duality EXE.
 
-12. Install it to the folder of your choice.
+3. Install it to the folder of your choice.
 
-13. Go into the folder you installed Duality Online, and press Launcher EXE.
+4. Go into the folder you installed Duality Online, and press Launcher EXE.
 ____________________________________________________________________________
 
-===SVN Version!===
-You first need TortoiseSVN client.
-It's a small program which is very usefull.
-
-10. Download TortoiseSVN here: http://tortoisesvn.net/downloads
-Please note that there are 2 versions (A 32-bit and a 64-bit version).
-If you don't which you should take, then take the 32-bit one (always works).
-
-11. Run the setup and install it how you like it. Reboot if asked.
-
-12. Choice your "Duality Online" destination folder.
-
-13. Right-click inside that folder (Make sure your cursor isn't pointing another folder or it will put the files inside that one) and click checkout.
-
-14. A windows should pop-up asking for the checkout link (Bar looks like internet bar (Where you put in things like www.google.com)).
-
-15. Fill in this link: http://dualityonline.googlecode.com/svn/trunk/
-
-16. Click ok so it will start downloading.
-
-17. Wait for it to complete.
 ------------------------------------------
 
 You're DONE! Yay!
